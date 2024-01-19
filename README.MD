@@ -8,6 +8,9 @@ Profesor: Jonathan Cruz
 
 Tutores: Matías Aguilera, Igna Borraz, Jorge Mendez
 
+## Sobre el proyecto:
+
+Se trata de un simulador de cajero automatico del tipo ATM.
 
 ## Rubricas de entrega:
 
