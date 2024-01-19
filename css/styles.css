@@ -1,0 +1,40 @@
+/* Estilos para el cuerpo de la página */
+body {
+    font-family: Calibri, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Estilos para el contenedor principal */
+.container {
+    width: 80%;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* Estilos para los encabezados */
+h1, h2 {
+    color: #333;
+}
+
+/* Estilos para la línea horizontal */
+hr {
+    border: 0;
+    border-top: 1px solid #ddd;
+    margin: 20px 0;
+}
+
+/* Estilos para los elementos de lista */
+ul, li{
+    list-style: none; /* Esto quitará los puntos de los elementos de lista */
+    padding: 0;
+}
